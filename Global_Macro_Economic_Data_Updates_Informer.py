@@ -1,4 +1,4 @@
-# Name   : myfx_commoutlook_data_collecter.py
+# Name   : Global_Macro_Economic_Data_Updates_Informer.py
 # Author : sanuja-gayantha (github.com) 
 # Date   : 2020/09/07
 
