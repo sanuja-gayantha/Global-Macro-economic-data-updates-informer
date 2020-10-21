@@ -57,3 +57,5 @@ Allow less secure apps access ON mode (link - https://myaccount.google.com/lesss
 If you run this script linux cloud virtual machine use "crontab" to run script every day.
 More details for "cronetab" visit --> https://stackoverflow.com/questions/30835547/how-to-execute-python-script-on-schedule 
 
+Copy and paste given code in https://www.koyfin.com/ search box.
+
