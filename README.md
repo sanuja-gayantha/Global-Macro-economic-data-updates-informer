@@ -3,6 +3,7 @@
 This script use to check is there are new macro economic data event available for following events
 
     'Government_Debt_to_GDP_Ratio':['USADebt2GDP', 'EMUDebt2GDP', 'JPNDebt2GDP', 'GBRDebt2GDP', 'CHEDebt2GDP', 'SWEDebt2GDP', 'AUSDebt2GDP', 'NZLDebt2GDP', 'CANDebt2GDP', 'NORDebt2GDP']
+    
 
     'Government_SD_GDP':['FDDSGDP', 'WDEBEURO', 'EHBBJPY', 'WCSDGBR', 'WCSDCHE', 'WCSDSWE', 'EHBBAR', 'WCSDNZL', 'CATGBDSD', 'WCSDNOR']
 
