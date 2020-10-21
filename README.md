@@ -1,6 +1,6 @@
-##About script
+## About script
 
-#This script use to check is there are new macro economic data event available for following events
+This script use to check is there are new macro economic data event available for following events
 
 'Government_Debt_to_GDP_Ratio':['USADebt2GDP', 'EMUDebt2GDP', 'JPNDebt2GDP', 'GBRDebt2GDP', 'CHEDebt2GDP', 'SWEDebt2GDP', 'AUSDebt2GDP', 'NZLDebt2GDP', 'CANDebt2GDP', 'NORDebt2GDP']
 
@@ -34,11 +34,11 @@
 
 'Euro_area_10_year_Government_bond_yield'
 
-##Important
+## Important
 
-#before run this script enter your e-mail address and password to certen variables
-#Allow less secure apps access ON mode (link - https://myaccount.google.com/lesssecureapps)
+before run this script enter your e-mail address and password to certen variables
+Allow less secure apps access ON mode (link - https://myaccount.google.com/lesssecureapps)
 
-#If you run this script linux cloud virtual machine use "crontab" to run script every day.
-#More details for "cronetab" visit --> https://stackoverflow.com/questions/30835547/how-to-execute-python-script-on-schedule 
+If you run this script linux cloud virtual machine use "crontab" to run script every day.
+More details for "cronetab" visit --> https://stackoverflow.com/questions/30835547/how-to-execute-python-script-on-schedule 
 
